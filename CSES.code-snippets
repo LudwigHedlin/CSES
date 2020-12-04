@@ -1,0 +1,14 @@
+
+
+{"begin": {
+    "prefix": "begin",
+    "body": [
+        "#include <iostream>",
+        "using namespace std;\n",
+        "typedef long long ll;\n",
+        "int main(){\n",
+        "ios::sync_with_stdio(false);\n",
+        "}"
+    ]
+}
+}
